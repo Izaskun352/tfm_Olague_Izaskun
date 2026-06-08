@@ -1,7 +1,8 @@
 # tfm_scripts
 Este repositorio contiene el código utilizado para el análisis de datos del trabajo de fin de máster.
 
-## 00_Setup.R: Contiene las librerias.
+## 00_Setup.R: 
+Principales librerias utilizadas.
 
 ## 00_Benchmark 
 *00_Benchmarking.R: Benchmark del método de propagación en red. Coge los datos publicados de las bases de datos de genes asociados a enfermedad. Utilizando los resultados de propagación, calcula las curvas ROC y represent gráficamente los resultados de AUC.
